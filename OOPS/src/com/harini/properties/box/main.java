@@ -1,6 +1,7 @@
 package com.harini.properties.box;
 
 public class main {
+    //Main Code start here
     public static void main(String[] args){
         BoxWeight box5 = new BoxWeight();
         box5.setWeight(5);
