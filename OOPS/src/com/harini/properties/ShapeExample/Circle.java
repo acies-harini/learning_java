@@ -4,4 +4,8 @@ public class Circle extends Shape {
     void Area(){
         System.out.println("Area of circle : 3.14*radius*radius");
     }
+
+    public void testFunction(){
+        System.out.println("Teest");
+    }
 }
