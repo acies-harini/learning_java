@@ -1,7 +1,7 @@
 package com.harini.properties.ShapeExample;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         Shape shape = new Shape();
         Circle circle = new Circle();
         Square square = new Square();
